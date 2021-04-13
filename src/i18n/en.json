@@ -1,0 +1,18 @@
+{
+  "email": "Email",
+  "emailInvalid": "Email invalid",
+  "emailRequired": "Email is required",
+  "emailPlaceholder": "Email",
+
+  "password": "Password",
+  "passwordMin": "Password is at least 6 characters",
+  "passwordMax": "Password is least than 20 characters",
+  "passwordRequired": "Password is required",
+  "passwordPlaceholder": "Password",
+  "forgetPassword": "Forget password",
+
+  "login": "Login",
+  "register": "Register",
+  "createNewAccount": "Create new account?",
+  "haveAccountAlready": "Have an account already!"
+}

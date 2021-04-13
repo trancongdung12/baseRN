@@ -1,0 +1,39 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.associations": {
+    "*.json": "jsonc"
+  },
+  "eslint.enable": true,
+  "eslint.options": {
+    "configFile": "./.eslintrc.json"
+  },
+  "editor.tabSize": 2,
+  "cSpell.words": [
+    "Adventor",
+    "Allergie",
+    "Categorisation",
+    "Datetime",
+    "Enouvo",
+    "Podfile",
+    "Roboto",
+    "centrelink",
+    "crashlytics",
+    "disableinvoice",
+    "disablerental",
+    "enableinvoice",
+    "enablerental",
+    "formik",
+    "gradlew",
+    "kuuho",
+    "netinfo",
+    "newclear",
+    "persistor",
+    "reduxjs",
+    "scrollable",
+    "viewpager",
+    "xcode"
+  ],
+  "editor.wordWrapColumn": 100
+}

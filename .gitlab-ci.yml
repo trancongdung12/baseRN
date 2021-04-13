@@ -1,0 +1,1 @@
+include: 'https://enouvo-systems.gitlab.io/gitlab-ci-yaml-template/react-native/.gitlab-ci.yml'

@@ -1,0 +1,12 @@
+//
+//  Config.xcconfig
+//  EnouvoRNBase
+//
+//  Created by Khanh Duy on 5/5/20.
+//  Copyright © 2020 Facebook. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include? "tmp.xcconfig"

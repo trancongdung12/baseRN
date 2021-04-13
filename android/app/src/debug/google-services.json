@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "269814079672",
+    "firebase_url": "https://smartsos-dev.firebaseio.com",
+    "project_id": "smartsos-dev",
+    "storage_bucket": "smartsos-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269814079672:android:dc5e3901012f1d4e",
+        "android_client_info": {
+          "package_name": "com.enouvo.ontherise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269814079672-p84olngdasoc1ca8d06e8j1a09tou570.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJgax2-tFMRh7tepSIDLg5QxfJA-d2-ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269814079672-p84olngdasoc1ca8d06e8j1a09tou570.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "269814079672-r3he5t5lnecut0u8n6bb2gf702crkp3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.enouvo.ontherise"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269814079672:android:661eb59e1a1898a4",
+        "android_client_info": {
+          "package_name": "com.kuuho.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269814079672-u48q93ee5j4723gps76doqpjctpna7sr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kuuho.adminapp",
+            "certificate_hash": "9730eace719ac4523ea9cee6b8e2e75cfe298274"
+          }
+        },
+        {
+          "client_id": "269814079672-p84olngdasoc1ca8d06e8j1a09tou570.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJgax2-tFMRh7tepSIDLg5QxfJA-d2-ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269814079672-p84olngdasoc1ca8d06e8j1a09tou570.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "269814079672-r3he5t5lnecut0u8n6bb2gf702crkp3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.enouvo.ontherise"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
